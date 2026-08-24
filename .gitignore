@@ -1,0 +1,19 @@
+# env
+.env
+
+# virtual environments
+.venv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# vector db
+chroma_db/
+
+# vscode
+.vscode/
+
+# misc
+tempCodeRunnerFile.py
